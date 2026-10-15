@@ -10,3 +10,12 @@ This XDELTA contains
 - Various new content
 - Easter eggs
 - QOL updates
+- Borders
+
+
+## DELTARUNE 3DS XDELTA
+This XDELTA contains
+
+- Bottom Screen UI 
+- Touch Support
+- Borders
